@@ -46,7 +46,7 @@ export default function About() {
                 A Passionate <span className="text-purple-600">Developer</span> &amp; <span className="text-purple-600">Analyst</span>.
               </h2>
               <p className="text-gray-600 leading-relaxed text-lg">
-                I am currently pursuing my Master of Computer Applications (MCA) at <strong>Shri Veer College of Engineering, Pandharpur</strong>. My journey is defined by a curiosity to solve problems using technology and data.
+                I am currently pursuing my Master of Computer Applications (MCA) at <strong>SVERI's College of Engineering, Pandharpur</strong>. My journey is defined by a curiosity to solve problems using technology and data.
               </p>
               <p className="text-gray-600 leading-relaxed">
                 I specialize in building robust backend systems with <strong>Java and Spring Boot</strong>, while also diving deep into data using <strong>Python and Power BI</strong> to extract actionable insights.

@@ -11,7 +11,7 @@ const timeline = [
     accentLine: 'border-purple-400',
     icon: '🎓',
     title: 'Master of Computer Applications (MCA)',
-    org: 'Shri Veer College of Engineering, Pandharpur (Autonomous)',
+    org: 'SVERI\'s College of Engineering, Pandharpur (Autonomous)',
     university: 'Affiliated to Solapur University',
     desc: 'Pursuing MCA with a strong focus on Java Full Stack Development, Data Science, and enterprise application design. Actively engaged in real-world projects and technical research to sharpen software engineering skills.',
     tags: ['Java', 'Spring Boot', 'Data Science', 'Full Stack'],
@@ -46,16 +46,16 @@ const timeline = [
 
 const certs = [
   { emoji: '📜', title: 'British Airways Data Science', sub: 'Data Science Job Simulation · Forage', color: 'bg-blue-50 border-blue-200' },
-  { emoji: '📊', title: 'PwC Power BI Certification',  sub: 'Power BI Job Simulation · Forage',    color: 'bg-orange-50 border-orange-200' },
-  { emoji: '🏢', title: 'Accenture Data Analytics',    sub: 'Data Analytics & Visualization · Forage', color: 'bg-purple-50 border-purple-200' },
-  { emoji: '📈', title: 'Tata Data Visualisation',     sub: 'Empowering Business · Forage',        color: 'bg-teal-50 border-teal-200' },
+  { emoji: '📊', title: 'PwC Power BI Certification', sub: 'Power BI Job Simulation · Forage', color: 'bg-orange-50 border-orange-200' },
+  { emoji: '🏢', title: 'Accenture Data Analytics', sub: 'Data Analytics & Visualization · Forage', color: 'bg-purple-50 border-purple-200' },
+  { emoji: '📈', title: 'Tata Data Visualisation', sub: 'Empowering Business · Forage', color: 'bg-teal-50 border-teal-200' },
 ]
 
 const certImages = [
-  { src: '/images/Data Science-1.png',        alt: 'British Airways Data Science Certificate' },
-  { src: '/images/PowerBI Certificate-1.png', alt: 'PwC Power BI Certificate'                 },
-  { src: '/images/certificate-accenture.png', alt: 'Accenture Certificate'                    },
-  { src: '/images/Certificate-1.png',         alt: 'Tata Certificate'                         },
+  { src: '/images/Data Science-1.png', alt: 'British Airways Data Science Certificate' },
+  { src: '/images/PowerBI Certificate-1.png', alt: 'PwC Power BI Certificate' },
+  { src: '/images/certificate-accenture.png', alt: 'Accenture Certificate' },
+  { src: '/images/Certificate-1.png', alt: 'Tata Certificate' },
 ]
 
 
@@ -89,7 +89,7 @@ export default function Experience() {
       {/* ── Curved divider ── */}
       <div className="bg-purple-600 h-12">
         <svg className="w-full" viewBox="0 0 1440 48" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-          <path d="M0 0H1440V0C1440 0 1080 48 720 48C360 48 0 0 0 0Z" fill="white"/>
+          <path d="M0 0H1440V0C1440 0 1080 48 720 48C360 48 0 0 0 0Z" fill="white" />
         </svg>
       </div>
 
