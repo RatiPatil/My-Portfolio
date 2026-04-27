@@ -35,7 +35,7 @@ export default function Navbar() {
             <img src="/rp-logo.png" alt="RP Logo" className="w-full h-full object-cover" />
           </div>
           <span className="text-xl font-extrabold tracking-tight text-purple-800">
-            Ratikant<span className="text-purple-400">.</span>
+            Ratikant Patil<span className="text-purple-400">.</span>
           </span>
         </Link>
 
