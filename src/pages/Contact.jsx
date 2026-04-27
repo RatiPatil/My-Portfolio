@@ -123,6 +123,13 @@ export default function Contact() {
             {status === 'sending' && 'Sending…'}
             {status === 'sent'    && '✅ Message Sent!'}
           </button>
+          
+          {status === 'sent' && (
+            <div className="p-4 bg-green-50 border border-green-100 rounded-xl text-green-700 text-sm font-medium flex items-center gap-3 animate-fade-in">
+              <span className="text-xl">✨</span>
+              Thank you! Your message has been sent successfully. I'll get back to you soon.
+            </div>
+          )}
         </form>
       </div>
     </div>
