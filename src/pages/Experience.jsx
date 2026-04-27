@@ -4,7 +4,7 @@ import { SlideIn } from '../components/PageAnimations'
 /* ─── Data ─────────────────────────────────────────────── */
 const timeline = [
   {
-    period: '2023 – Present',
+    period: '2025 – 2027',
     badge: 'Education',
     badgeColor: 'bg-purple-100 text-purple-700',
     dotColor: 'bg-purple-600',
@@ -17,7 +17,7 @@ const timeline = [
     tags: ['Java', 'Spring Boot', 'Data Science', 'Full Stack'],
   },
   {
-    period: '2023',
+    period: '2024',
     badge: 'Internship',
     badgeColor: 'bg-violet-100 text-violet-700',
     dotColor: 'bg-violet-500',
@@ -30,15 +30,15 @@ const timeline = [
     tags: ['Python', 'Data Analytics', 'Power BI', 'Tableau'],
   },
   {
-    period: '2020 – 2023',
+    period: '2022 – 2025',
     badge: 'Education',
     badgeColor: 'bg-fuchsia-100 text-fuchsia-700',
     dotColor: 'bg-fuchsia-500',
     accentLine: 'border-fuchsia-400',
     icon: '🎓',
     title: 'Bachelor of Computer Applications (BCA)',
-    org: 'Solapur University',
-    university: 'Solapur, Maharashtra',
+    org: 'Mangalvedhekar Institute Of Management Solapur',
+    university: 'Affiliated to Solapur University',
     desc: 'Built a strong foundation in computer science, C, C++, RDBMS, and introductory web development. Graduated with distinction with a keen interest in software development.',
     tags: ['C / C++', 'MySQL', 'HTML/CSS', 'OOP'],
   },
